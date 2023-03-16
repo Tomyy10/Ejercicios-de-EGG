@@ -18,7 +18,7 @@ public class EjerciciosJava2 {
         System.out.print("Ingrese tu nombre: ");
         
         //esta variable se utiliza para almacenar el dato ingresado por el usuario;
-        nombre = leer.next();
+        nombre = leer.nextline();
         
         //Mostramos el mensaje al usuario del resultado;
         System.out.println("Hola " + nombre + " ¿Como estas");
